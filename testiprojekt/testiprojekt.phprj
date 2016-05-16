@@ -6,7 +6,7 @@
  "settings": {
   "m_runAs": 0,
   "m_phpExe": "/usr/bin/php",
-  "m_indexFile": "/home/student/Desktop/html/testiprojekt/index.php",
+  "m_indexFile": "/var/www/html/syntax/redirect.php",
   "m_args": "",
   "m_workingDirectory": "",
   "m_projectURL": "",
